@@ -6,7 +6,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/suyash--more-none-green)
 
 
-  <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
+  <img align="right" alt="GIF" src="giffy.gif" width="450" height="280" />
 <br />
 
 - **I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology from Pune Institute of Computer Technology**. 
