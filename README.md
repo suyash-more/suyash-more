@@ -8,7 +8,6 @@
 
   <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
 <br />
-<br />
 
 - **I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology from Pune Institute of Computer Technology**. 
 <br />
