@@ -8,8 +8,8 @@
 
   <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
 
-
-- I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology from Pune Institute of Computer Technology. 
-- I am also gaining experience in the field of Cloud and DevSecOps and WebDev. 
-- I am very much interested in Automation related Stuff and truly believe in Automation.
-
+<p align="left">
+- **I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology from Pune Institute of Computer Technology**. 
+- **I am also gaining experience in the field of Cloud and DevSecOps and WebDev**. 
+- **I am very much interested in Automation related Stuff and truly believe in Automation**.
+</p>
