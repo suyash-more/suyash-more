@@ -3,7 +3,6 @@
 </h1>
                                                          
 [![Linkedin Badge](https://img.shields.io/badge/-suyashmore-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyashmore789/)](https://www.linkedin.com/in/suyashmore789/)
-![Linkedin Badge](https://img.shields.io/badge/suyash--more-none-green)
 
 
   <img align="right" alt="GIF" src="giffy.gif" width="450" height="280" />
