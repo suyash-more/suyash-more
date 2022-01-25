@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there. I am Suyash More..!!  
 </h1>
                                           
-  <img align="right" alt="GIF" src="giffy.gif" width="450" height="280" />
+  <img align="right" alt="GIF" src="giffy.gif" width="450" height="230" />
 <br />
 
 - **I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology at Pune Institute of Computer Technology**. 
