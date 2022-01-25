@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
 
 <br>
 <br>
@@ -59,6 +60,5 @@
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
 
 <hr>
