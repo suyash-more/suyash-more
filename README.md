@@ -17,8 +17,8 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suyashmore789) 
-[<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:suyashmore789@gmail.com) 
-[<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/suyash-more)
+[<img src="https://img.shields.io/badge/-suyash-more-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:suyashmore789@gmail.com) 
+[<img src="https://img.shields.io/badge/-suyash-more-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/suyash-more)
 <br>
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/suyash-more?color=green?label=Followers&style=for-the-badge)](https://github.com/suyash-more?tab=followers)
