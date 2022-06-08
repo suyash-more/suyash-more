@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hey there. I am Suyash More..!!  
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px"> Hey there. I am Suyash More..!!  
 </h1>
                                           
   <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
