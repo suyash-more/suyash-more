@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px"> Hey there  👋. I am Suyash More..!!  
+    <img src="waving-hand.gif" height="30px" width="25px"> Hey there  👋. I am Suyash More..!!  
 </h1>
                                           
-  <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
+  <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" style=”padding: 3px 3px 0px 3px;”/>
 <br />
 
 - **I am a DevOps enthusiast with a passion for cloud technologies and currently pursuing my Bachelor's degree in Information technology at Pune Institute of Computer Technology. With extensive experience working on a wide range of technologies, I am confident in my ability to navigate complex technical environments and provide innovative solutions to modern challenges.**
