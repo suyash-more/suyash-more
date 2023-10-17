@@ -2,7 +2,7 @@
     <img src="waving-hand.gif" height="30px" width="25px"> Hey there  👋. I am Suyash More..!!  
 </h1>
                                           
-  <img style=”float: right; padding: 0px 0px 0px 3px;” alt="GIF" src="giffy.gif" width="450" height="250" />
+  <img alt="GIF" src="giffy.gif" width="450" height="250" />
 <br />
 
 - **I am a DevOps enthusiast with a passion for cloud technologies and currently pursuing my Bachelor's degree in Information technology at Pune Institute of Computer Technology. With extensive experience working on a wide range of technologies, I am confident in my ability to navigate complex technical environments and provide innovative solutions to modern challenges.**
