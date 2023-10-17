@@ -1,18 +1,21 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px"> Hey there. I am Suyash More..!!  
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="25px"> Hey there  👋. I am Suyash More..!!  
 </h1>
                                           
   <img align="right" alt="GIF" src="giffy.gif" width="450" height="250" />
 <br />
 
-- **I am a DevSecOps and Cloud Enthusiast and currently pursuing my Bachelor's degree in Information technology at Pune Institute of Computer Technology**. 
+**I am a DevOps enthusiast with a passion for cloud technologies and currently pursuing my Bachelor's degree in Information technology at Pune Institute of Computer Technology. With extensive experience working on a wide range of technologies, I am confident in my ability to navigate complex technical environments and provide innovative solutions to modern challenges.**
 <br />
 
-- **I am also gaining experience in the field of Cloud and DevSecOps and WebDev**. 
+**I have worked on many exciting projects that have given me the opportunity to develop my skills in various areas. I have had hands-on experience with several technologies such as AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Vagrant, ROS, Solidworks, and many more.**
 <br />
 
-- **I am very much interested in Automation related Stuff and truly believe in Automation**.
-<hr>
+**I am keen on fostering a culture of collaboration and continuous learning. I strive to build strong relationships with teams across the organization, working together to deliver secure, scalable, and efficient solutions.**
+<br />
+
+**As a developer, I have had the opportunity to work on various projects across different industries, and I enjoy the challenge of designing and implementing scalable and efficient solutions. I am comfortable working with a variety of development tools and frameworks.**
+<br />
 
 <div align="center">
 
